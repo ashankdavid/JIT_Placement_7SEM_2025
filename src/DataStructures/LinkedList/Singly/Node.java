@@ -26,9 +26,6 @@ class SLL{
 
     }
 
-    void insertAtPos(int pos, int val){
-        
-    }
 
     void printList(){
         Node temp = head;
