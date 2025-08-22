@@ -1,7 +1,5 @@
 package DataStructures.Graphs.AdjList;
 
-import DataStructures.Graphs.AdjMatrix.Graph;
-
 import java.util.ArrayList;
 
 public class Graphs {
